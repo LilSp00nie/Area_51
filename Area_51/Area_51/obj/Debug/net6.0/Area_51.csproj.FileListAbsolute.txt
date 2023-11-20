@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C# Advanced\Area_51\Area_51\bin\Debug\net6.0\Area_51.exe
+C:\Users\User\Desktop\C# Advanced\Area_51\Area_51\bin\Debug\net6.0\Area_51.deps.json
+C:\Users\User\Desktop\C# Advanced\Area_51\Area_51\bin\Debug\net6.0\Area_51.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced\Area_51\Area_51\bin\Debug\net6.0\Area_51.dll
+C:\Users\User\Desktop\C# Advanced\Area_51\Area_51\bin\Debug\net6.0\Area_51.pdb
+C:\Users\User\Desktop\C# Advanced\Area_51\Area_51\obj\Debug\net6.0\Area_51.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Area_51\Area_51\obj\Debug\net6.0\Area_51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Advanced\Area_51\Area_51\obj\Debug\net6.0\Area_51.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced\Area_51\Area_51\obj\Debug\net6.0\Area_51.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced\Area_51\Area_51\obj\Debug\net6.0\Area_51.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Area_51\Area_51\obj\Debug\net6.0\Area_51.dll
+C:\Users\User\Desktop\C# Advanced\Area_51\Area_51\obj\Debug\net6.0\refint\Area_51.dll
+C:\Users\User\Desktop\C# Advanced\Area_51\Area_51\obj\Debug\net6.0\Area_51.pdb
+C:\Users\User\Desktop\C# Advanced\Area_51\Area_51\obj\Debug\net6.0\Area_51.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Advanced\Area_51\Area_51\obj\Debug\net6.0\ref\Area_51.dll
